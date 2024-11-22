@@ -4,8 +4,10 @@ Gomb is a simple tool that renders the Mandelbrot fractal set in ASCII
 
 ## Building
 
+```
 go get .
 go build .
+```
 
 ## Usage
 
