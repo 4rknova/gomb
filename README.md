@@ -26,7 +26,7 @@ render the image. The following switches are supported:
 ## Examples
 
 ```
-$ ./gomb  -zoom 0.5 -iterations 38 -invert - -zoom 0.5
+$ ./gomb  -zoom 0.5 -iterations 38 -invert 
 
                                    ''''''''''''''''''''                                  
                                ''''''''''''''''''''''''''''                              
